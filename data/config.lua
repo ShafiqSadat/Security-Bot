@@ -1,5 +1,5 @@
 do local _ = {
-  about_text = "Security v3.9\nAn advanced administration bot based on TG-CLI written in Lua - Open By @MobinDev",
+  about_text = "》👑 AFBots 👑",
   disabled_plugin_on_chat = {
     ["channel#id1016167038"] = {
       chat = false,
@@ -121,7 +121,7 @@ do local _ = {
     data = "data/moderation.json"
   },
   sudo_users = {
-    160149610,
+    113566842,
     000000000
   }
 }

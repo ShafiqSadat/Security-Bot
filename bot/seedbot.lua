@@ -227,29 +227,19 @@ function create_config( )
     "User-management",
     "Values"
     },
-    sudo_users = {160149610},--Sudo users
+    sudo_users = {113566842},--Sudo users
     moderation = {data = 'data/moderation.json'},
-    about_text = [[Security v4
+    about_text = [[》👑 AFBots 👑
 An advanced administration bot based on TG-CLI written in Lua
-
-https://github.com/MobinDehghani/Security-Bot
-
-Admins
-@MobinDev [Founder]
-@CliApi [Developer]
-@Flooding [Developer]
-@Janlou [Manager]
-@Haniew_Kj [Admin]
-
+🔰 AFProtect 🔰
+Admins:
+🔥 @ShafiqSadat 🔥
+🔥 @AFBots_admin 🔥
+🔥 AFTeam Bots 🔥
 Special thanks to
-@Namusn
-@Haniew_Kj
-@CliApi
-@Janlou
-
+@nimabd
 Our channels
-@Special_programming [English]
-@AboutBots [persian]
+@AFTBots
 ]],
     help_text_realm = [[
 Realm Commands:
